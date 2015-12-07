@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: 8eea3eff594d07a4b89cde0fbe278992
+timeCreated: 1448303732
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: polySurface4_TT2_Tropic_TreeType2
+    100002: //RootNode
+    100004: TreeType2_group4_TT2_Desert_polySurface1
+    100006: TreeType2_group4_TT2_Desert_polySurface2
+    100008: TreeType2_group4_TT2_Desert_polySurface6
+    100010: TreeType2_group6_TT2_Jungle_polySurface1
+    100012: TreeType2_group6_TT2_Jungle_polySurface2
+    100014: TreeType2_group6_TT2_Jungle_polySurface6
+    100016: TreeType2_polySurface4_group4_TT2_Desert
+    100018: TreeType2_polySurface4_group6_TT2_Jungle
+    100020: TreeType2_polySurface4_TT2_SubTropic
+    100022: TreeType2_TT2_SubTropic_polySurface1
+    100024: TreeType2_TT2_SubTropic_polySurface2
+    100026: TreeType2_TT2_SubTropic_polySurface6
+    100028: TT2_Tropic_TreeType2_polySurface1
+    100030: TT2_Tropic_TreeType2_polySurface2
+    100032: TT2_Tropic_TreeType2_polySurface6
+    400000: polySurface4_TT2_Tropic_TreeType2
+    400002: //RootNode
+    400004: TreeType2_group4_TT2_Desert_polySurface1
+    400006: TreeType2_group4_TT2_Desert_polySurface2
+    400008: TreeType2_group4_TT2_Desert_polySurface6
+    400010: TreeType2_group6_TT2_Jungle_polySurface1
+    400012: TreeType2_group6_TT2_Jungle_polySurface2
+    400014: TreeType2_group6_TT2_Jungle_polySurface6
+    400016: TreeType2_polySurface4_group4_TT2_Desert
+    400018: TreeType2_polySurface4_group6_TT2_Jungle
+    400020: TreeType2_polySurface4_TT2_SubTropic
+    400022: TreeType2_TT2_SubTropic_polySurface1
+    400024: TreeType2_TT2_SubTropic_polySurface2
+    400026: TreeType2_TT2_SubTropic_polySurface6
+    400028: TT2_Tropic_TreeType2_polySurface1
+    400030: TT2_Tropic_TreeType2_polySurface2
+    400032: TT2_Tropic_TreeType2_polySurface6
+    2300000: polySurface4_TT2_Tropic_TreeType2
+    2300002: TreeType2_group4_TT2_Desert_polySurface1
+    2300004: TreeType2_group4_TT2_Desert_polySurface2
+    2300006: TreeType2_group4_TT2_Desert_polySurface6
+    2300008: TreeType2_group6_TT2_Jungle_polySurface1
+    2300010: TreeType2_group6_TT2_Jungle_polySurface2
+    2300012: TreeType2_group6_TT2_Jungle_polySurface6
+    2300014: TreeType2_polySurface4_group4_TT2_Desert
+    2300016: TreeType2_polySurface4_group6_TT2_Jungle
+    2300018: TreeType2_polySurface4_TT2_SubTropic
+    2300020: TreeType2_TT2_SubTropic_polySurface1
+    2300022: TreeType2_TT2_SubTropic_polySurface2
+    2300024: TreeType2_TT2_SubTropic_polySurface6
+    2300026: TT2_Tropic_TreeType2_polySurface1
+    2300028: TT2_Tropic_TreeType2_polySurface2
+    2300030: TT2_Tropic_TreeType2_polySurface6
+    3300000: polySurface4_TT2_Tropic_TreeType2
+    3300002: TreeType2_group4_TT2_Desert_polySurface1
+    3300004: TreeType2_group4_TT2_Desert_polySurface2
+    3300006: TreeType2_group4_TT2_Desert_polySurface6
+    3300008: TreeType2_group6_TT2_Jungle_polySurface1
+    3300010: TreeType2_group6_TT2_Jungle_polySurface2
+    3300012: TreeType2_group6_TT2_Jungle_polySurface6
+    3300014: TreeType2_polySurface4_group4_TT2_Desert
+    3300016: TreeType2_polySurface4_group6_TT2_Jungle
+    3300018: TreeType2_polySurface4_TT2_SubTropic
+    3300020: TreeType2_TT2_SubTropic_polySurface1
+    3300022: TreeType2_TT2_SubTropic_polySurface2
+    3300024: TreeType2_TT2_SubTropic_polySurface6
+    3300026: TT2_Tropic_TreeType2_polySurface1
+    3300028: TT2_Tropic_TreeType2_polySurface2
+    3300030: TT2_Tropic_TreeType2_polySurface6
+    4300000: polySurface4_TT2_Tropic_TreeType2
+    4300002: TreeType2_group4_TT2_Desert_polySurface1
+    4300004: TreeType2_group4_TT2_Desert_polySurface2
+    4300006: TreeType2_group4_TT2_Desert_polySurface6
+    4300008: TreeType2_group6_TT2_Jungle_polySurface1
+    4300010: TreeType2_group6_TT2_Jungle_polySurface2
+    4300012: TreeType2_group6_TT2_Jungle_polySurface6
+    4300014: TreeType2_polySurface4_group4_TT2_Desert
+    4300016: TreeType2_polySurface4_group6_TT2_Jungle
+    4300018: TreeType2_polySurface4_TT2_SubTropic
+    4300020: TreeType2_TT2_SubTropic_polySurface1
+    4300022: TreeType2_TT2_SubTropic_polySurface2
+    4300024: TreeType2_TT2_SubTropic_polySurface6
+    4300026: TT2_Tropic_TreeType2_polySurface1
+    4300028: TT2_Tropic_TreeType2_polySurface2
+    4300030: TT2_Tropic_TreeType2_polySurface6
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

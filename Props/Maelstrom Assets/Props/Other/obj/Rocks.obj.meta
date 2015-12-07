@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: 604e3ad82bcca8f4e89f2c6ed38251cc
+timeCreated: 1448303731
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Arctic_RockWall1_group1
+    100002: group1_Arctic_Rock1
+    100004: group1_Arctic_Rock2
+    100006: group1_Arctic_Rock3
+    100008: group1_Arctic_Rock4
+    100010: polySurface1_polySurface3
+    100012: polySurface1_polySurface4
+    100014: polySurface1_polySurface5
+    100016: polySurface2_polySurface1
+    100018: pTorus10
+    100020: pTorus4
+    100022: pTorus5
+    100024: pTorus6
+    100026: pTorus8
+    100028: pTorus9
+    100030: //RootNode
+    400000: Arctic_RockWall1_group1
+    400002: group1_Arctic_Rock1
+    400004: group1_Arctic_Rock2
+    400006: group1_Arctic_Rock3
+    400008: group1_Arctic_Rock4
+    400010: polySurface1_polySurface3
+    400012: polySurface1_polySurface4
+    400014: polySurface1_polySurface5
+    400016: polySurface2_polySurface1
+    400018: pTorus10
+    400020: pTorus4
+    400022: pTorus5
+    400024: pTorus6
+    400026: pTorus8
+    400028: pTorus9
+    400030: //RootNode
+    2300000: Arctic_RockWall1_group1
+    2300002: group1_Arctic_Rock1
+    2300004: group1_Arctic_Rock2
+    2300006: group1_Arctic_Rock3
+    2300008: group1_Arctic_Rock4
+    2300010: polySurface1_polySurface3
+    2300012: polySurface1_polySurface4
+    2300014: polySurface1_polySurface5
+    2300016: polySurface2_polySurface1
+    2300018: pTorus10
+    2300020: pTorus4
+    2300022: pTorus5
+    2300024: pTorus6
+    2300026: pTorus8
+    2300028: pTorus9
+    3300000: Arctic_RockWall1_group1
+    3300002: group1_Arctic_Rock1
+    3300004: group1_Arctic_Rock2
+    3300006: group1_Arctic_Rock3
+    3300008: group1_Arctic_Rock4
+    3300010: polySurface1_polySurface3
+    3300012: polySurface1_polySurface4
+    3300014: polySurface1_polySurface5
+    3300016: polySurface2_polySurface1
+    3300018: pTorus10
+    3300020: pTorus4
+    3300022: pTorus5
+    3300024: pTorus6
+    3300026: pTorus8
+    3300028: pTorus9
+    4300000: Arctic_RockWall1_group1
+    4300002: group1_Arctic_Rock1
+    4300004: group1_Arctic_Rock2
+    4300006: group1_Arctic_Rock3
+    4300008: group1_Arctic_Rock4
+    4300010: polySurface1_polySurface3
+    4300012: polySurface1_polySurface4
+    4300014: polySurface1_polySurface5
+    4300016: polySurface2_polySurface1
+    4300018: pTorus10
+    4300020: pTorus4
+    4300022: pTorus5
+    4300024: pTorus6
+    4300026: pTorus8
+    4300028: pTorus9
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

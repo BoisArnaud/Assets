@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: 8d56ce3baf41f444ea396d5e196e631d
+timeCreated: 1448303732
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: FirePit1
+    100002: Herald1
+    100004: SmallPack1
+    100006: Target1
+    100008: Tent01
+    100010: Tent02
+    100012: Tent03
+    100014: Tent04
+    100016: Tent05
+    100018: Tent06
+    100020: Tent07
+    100022: //RootNode
+    100024: WatchTower1
+    100026: Well1
+    100028: WoodCircle1
+    100030: WoodenWall1
+    100032: WoodenWall2
+    100034: WoodenWall3
+    100036: WoodenWall4
+    100038: WoodStack1
+    100040: WoodStack2
+    100042: WoodStack3
+    100044: WoodTent1
+    400000: FirePit1
+    400002: Herald1
+    400004: SmallPack1
+    400006: Target1
+    400008: Tent01
+    400010: Tent02
+    400012: Tent03
+    400014: Tent04
+    400016: Tent05
+    400018: Tent06
+    400020: Tent07
+    400022: //RootNode
+    400024: WatchTower1
+    400026: Well1
+    400028: WoodCircle1
+    400030: WoodenWall1
+    400032: WoodenWall2
+    400034: WoodenWall3
+    400036: WoodenWall4
+    400038: WoodStack1
+    400040: WoodStack2
+    400042: WoodStack3
+    400044: WoodTent1
+    2300000: FirePit1
+    2300002: Herald1
+    2300004: SmallPack1
+    2300006: Target1
+    2300008: Tent01
+    2300010: Tent02
+    2300012: Tent03
+    2300014: Tent04
+    2300016: Tent05
+    2300018: Tent06
+    2300020: Tent07
+    2300022: WatchTower1
+    2300024: Well1
+    2300026: WoodCircle1
+    2300028: WoodenWall1
+    2300030: WoodenWall2
+    2300032: WoodenWall3
+    2300034: WoodenWall4
+    2300036: WoodStack1
+    2300038: WoodStack2
+    2300040: WoodStack3
+    2300042: WoodTent1
+    3300000: FirePit1
+    3300002: Herald1
+    3300004: SmallPack1
+    3300006: Target1
+    3300008: Tent01
+    3300010: Tent02
+    3300012: Tent03
+    3300014: Tent04
+    3300016: Tent05
+    3300018: Tent06
+    3300020: Tent07
+    3300022: WatchTower1
+    3300024: Well1
+    3300026: WoodCircle1
+    3300028: WoodenWall1
+    3300030: WoodenWall2
+    3300032: WoodenWall3
+    3300034: WoodenWall4
+    3300036: WoodStack1
+    3300038: WoodStack2
+    3300040: WoodStack3
+    3300042: WoodTent1
+    4300000: FirePit1
+    4300002: Herald1
+    4300004: SmallPack1
+    4300006: Target1
+    4300008: Tent01
+    4300010: Tent02
+    4300012: Tent03
+    4300014: Tent04
+    4300016: Tent05
+    4300018: Tent06
+    4300020: Tent07
+    4300022: WatchTower1
+    4300024: Well1
+    4300026: WoodCircle1
+    4300028: WoodenWall1
+    4300030: WoodenWall2
+    4300032: WoodenWall3
+    4300034: WoodenWall4
+    4300036: WoodStack1
+    4300038: WoodStack2
+    4300040: WoodStack3
+    4300042: WoodTent1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

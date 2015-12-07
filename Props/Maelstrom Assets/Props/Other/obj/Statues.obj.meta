@@ -1,0 +1,138 @@
+fileFormatVersion: 2
+guid: 0dc2c4f71c30682419f8fceb19162466
+timeCreated: 1448303728
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: group3_polySurface102
+    100002: group3_polySurface109
+    100004: group3_polySurface118
+    100006: group3_polySurface12
+    100008: group3_polySurface134
+    100010: group3_polySurface15
+    100012: group3_polySurface16
+    100014: group3_polySurface166
+    100016: group3_polySurface29
+    100018: group3_polySurface44
+    100020: group3_polySurface45
+    100022: group3_polySurface8
+    100024: polySurface4_group3
+    100026: //RootNode
+    400000: group3_polySurface102
+    400002: group3_polySurface109
+    400004: group3_polySurface118
+    400006: group3_polySurface12
+    400008: group3_polySurface134
+    400010: group3_polySurface15
+    400012: group3_polySurface16
+    400014: group3_polySurface166
+    400016: group3_polySurface29
+    400018: group3_polySurface44
+    400020: group3_polySurface45
+    400022: group3_polySurface8
+    400024: polySurface4_group3
+    400026: //RootNode
+    2300000: group3_polySurface102
+    2300002: group3_polySurface109
+    2300004: group3_polySurface118
+    2300006: group3_polySurface12
+    2300008: group3_polySurface134
+    2300010: group3_polySurface15
+    2300012: group3_polySurface16
+    2300014: group3_polySurface166
+    2300016: group3_polySurface29
+    2300018: group3_polySurface44
+    2300020: group3_polySurface45
+    2300022: group3_polySurface8
+    2300024: polySurface4_group3
+    3300000: group3_polySurface102
+    3300002: group3_polySurface109
+    3300004: group3_polySurface118
+    3300006: group3_polySurface12
+    3300008: group3_polySurface134
+    3300010: group3_polySurface15
+    3300012: group3_polySurface16
+    3300014: group3_polySurface166
+    3300016: group3_polySurface29
+    3300018: group3_polySurface44
+    3300020: group3_polySurface45
+    3300022: group3_polySurface8
+    3300024: polySurface4_group3
+    4300000: group3_polySurface102
+    4300002: group3_polySurface109
+    4300004: group3_polySurface118
+    4300006: group3_polySurface12
+    4300008: group3_polySurface134
+    4300010: group3_polySurface15
+    4300012: group3_polySurface16
+    4300014: group3_polySurface166
+    4300016: group3_polySurface29
+    4300018: group3_polySurface44
+    4300020: group3_polySurface45
+    4300022: group3_polySurface8
+    4300024: polySurface4_group3
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

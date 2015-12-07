@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: 814f66e3cdefb4d43b13125740ac7434
+timeCreated: 1447544331
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Belly_orb_Lo
+    100002: Head
+    100004: pCylinder30_Sprouts
+    100006: //RootNode
+    100008: polySurface50_polySurface52
+    100010: polySurface50_polySurface53
+    100012: polySurface50_polySurface54
+    100014: polySurface50_polySurface55
+    100016: polySurface50_polySurface57
+    100018: polySurface50_polySurface58
+    100020: polySurface50_polySurface59
+    100022: polySurface50_polySurface60
+    100024: polySurface50_polySurface61
+    100026: polySurface50_polySurface62
+    100028: polySurface51_polySurface50
+    100030: polySurface67
+    100032: Sprouts_Head_sprount
+    100034: Sprouts_pCylinder18
+    100036: Sprouts_pCylinder19
+    100038: Sprouts_pCylinder20
+    100040: Sprouts_pCylinder21
+    100042: Sprouts_pCylinder22
+    100044: Sprouts_pCylinder23
+    100046: Sprouts_pCylinder24
+    100048: Sprouts_pCylinder25
+    100050: Sprouts_pCylinder26
+    100052: Sprouts_pCylinder27
+    100054: Sprouts_pCylinder28
+    100056: Sprouts_pCylinder29
+    400000: Belly_orb_Lo
+    400002: Head
+    400004: pCylinder30_Sprouts
+    400006: //RootNode
+    400008: polySurface50_polySurface52
+    400010: polySurface50_polySurface53
+    400012: polySurface50_polySurface54
+    400014: polySurface50_polySurface55
+    400016: polySurface50_polySurface57
+    400018: polySurface50_polySurface58
+    400020: polySurface50_polySurface59
+    400022: polySurface50_polySurface60
+    400024: polySurface50_polySurface61
+    400026: polySurface50_polySurface62
+    400028: polySurface51_polySurface50
+    400030: polySurface67
+    400032: Sprouts_Head_sprount
+    400034: Sprouts_pCylinder18
+    400036: Sprouts_pCylinder19
+    400038: Sprouts_pCylinder20
+    400040: Sprouts_pCylinder21
+    400042: Sprouts_pCylinder22
+    400044: Sprouts_pCylinder23
+    400046: Sprouts_pCylinder24
+    400048: Sprouts_pCylinder25
+    400050: Sprouts_pCylinder26
+    400052: Sprouts_pCylinder27
+    400054: Sprouts_pCylinder28
+    400056: Sprouts_pCylinder29
+    2300000: Belly_orb_Lo
+    2300002: Head
+    2300004: pCylinder30_Sprouts
+    2300006: polySurface50_polySurface52
+    2300008: polySurface50_polySurface53
+    2300010: polySurface50_polySurface54
+    2300012: polySurface50_polySurface55
+    2300014: polySurface50_polySurface57
+    2300016: polySurface50_polySurface58
+    2300018: polySurface50_polySurface59
+    2300020: polySurface50_polySurface60
+    2300022: polySurface50_polySurface61
+    2300024: polySurface50_polySurface62
+    2300026: polySurface51_polySurface50
+    2300028: polySurface67
+    2300030: Sprouts_Head_sprount
+    2300032: Sprouts_pCylinder18
+    2300034: Sprouts_pCylinder19
+    2300036: Sprouts_pCylinder20
+    2300038: Sprouts_pCylinder21
+    2300040: Sprouts_pCylinder22
+    2300042: Sprouts_pCylinder23
+    2300044: Sprouts_pCylinder24
+    2300046: Sprouts_pCylinder25
+    2300048: Sprouts_pCylinder26
+    2300050: Sprouts_pCylinder27
+    2300052: Sprouts_pCylinder28
+    2300054: Sprouts_pCylinder29
+    3300000: Belly_orb_Lo
+    3300002: Head
+    3300004: pCylinder30_Sprouts
+    3300006: polySurface50_polySurface52
+    3300008: polySurface50_polySurface53
+    3300010: polySurface50_polySurface54
+    3300012: polySurface50_polySurface55
+    3300014: polySurface50_polySurface57
+    3300016: polySurface50_polySurface58
+    3300018: polySurface50_polySurface59
+    3300020: polySurface50_polySurface60
+    3300022: polySurface50_polySurface61
+    3300024: polySurface50_polySurface62
+    3300026: polySurface51_polySurface50
+    3300028: polySurface67
+    3300030: Sprouts_Head_sprount
+    3300032: Sprouts_pCylinder18
+    3300034: Sprouts_pCylinder19
+    3300036: Sprouts_pCylinder20
+    3300038: Sprouts_pCylinder21
+    3300040: Sprouts_pCylinder22
+    3300042: Sprouts_pCylinder23
+    3300044: Sprouts_pCylinder24
+    3300046: Sprouts_pCylinder25
+    3300048: Sprouts_pCylinder26
+    3300050: Sprouts_pCylinder27
+    3300052: Sprouts_pCylinder28
+    3300054: Sprouts_pCylinder29
+    4300000: Belly_orb_Lo
+    4300002: Head
+    4300004: pCylinder30_Sprouts
+    4300006: polySurface50_polySurface52
+    4300008: polySurface50_polySurface53
+    4300010: polySurface50_polySurface54
+    4300012: polySurface50_polySurface55
+    4300014: polySurface50_polySurface57
+    4300016: polySurface50_polySurface58
+    4300018: polySurface50_polySurface59
+    4300020: polySurface50_polySurface60
+    4300022: polySurface50_polySurface61
+    4300024: polySurface50_polySurface62
+    4300026: polySurface51_polySurface50
+    4300028: polySurface67
+    4300030: Sprouts_Head_sprount
+    4300032: Sprouts_pCylinder18
+    4300034: Sprouts_pCylinder19
+    4300036: Sprouts_pCylinder20
+    4300038: Sprouts_pCylinder21
+    4300040: Sprouts_pCylinder22
+    4300042: Sprouts_pCylinder23
+    4300044: Sprouts_pCylinder24
+    4300046: Sprouts_pCylinder25
+    4300048: Sprouts_pCylinder26
+    4300050: Sprouts_pCylinder27
+    4300052: Sprouts_pCylinder28
+    4300054: Sprouts_pCylinder29
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

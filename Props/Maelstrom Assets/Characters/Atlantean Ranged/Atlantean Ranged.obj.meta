@@ -1,0 +1,113 @@
+fileFormatVersion: 2
+guid: 6f1d680fcbad4f9488f1cedbea27a801
+timeCreated: 1447544327
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: polySurface3_Ranged_Ranged
+    100004: polySurface7
+    100006: Ranged_arrow
+    100008: Ranged_bow
+    100010: Ranged_quiver
+    100012: Ranged_Ranged_polySurface4
+    100014: Ranged_Ranged_polySurface5
+    100016: Ranged_Ranged_polySurface6
+    400000: //RootNode
+    400002: polySurface3_Ranged_Ranged
+    400004: polySurface7
+    400006: Ranged_arrow
+    400008: Ranged_bow
+    400010: Ranged_quiver
+    400012: Ranged_Ranged_polySurface4
+    400014: Ranged_Ranged_polySurface5
+    400016: Ranged_Ranged_polySurface6
+    2300000: polySurface3_Ranged_Ranged
+    2300002: polySurface7
+    2300004: Ranged_arrow
+    2300006: Ranged_bow
+    2300008: Ranged_quiver
+    2300010: Ranged_Ranged_polySurface4
+    2300012: Ranged_Ranged_polySurface5
+    2300014: Ranged_Ranged_polySurface6
+    3300000: polySurface3_Ranged_Ranged
+    3300002: polySurface7
+    3300004: Ranged_arrow
+    3300006: Ranged_bow
+    3300008: Ranged_quiver
+    3300010: Ranged_Ranged_polySurface4
+    3300012: Ranged_Ranged_polySurface5
+    3300014: Ranged_Ranged_polySurface6
+    4300000: polySurface3_Ranged_Ranged
+    4300002: polySurface7
+    4300004: Ranged_arrow
+    4300006: Ranged_bow
+    4300008: Ranged_quiver
+    4300010: Ranged_Ranged_polySurface4
+    4300012: Ranged_Ranged_polySurface5
+    4300014: Ranged_Ranged_polySurface6
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
